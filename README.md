@@ -1,6 +1,6 @@
 # React.js-first-project
-A small project(Proof of Concept) based on form in React.js to convince teammates to use react in our Big semester Project 
-Contributors: /saczmateusz & /san590
+A small project(Proof of Concept) based on form in React.js to convince teammates to use react in our Big semester Project. 
+Thanks my contributors: /saczmateusz & /san590
 
 ### Javascript - Reactjs - Nodejs - Expressjs - Axios - HTML & CSS - Mongodb
 
